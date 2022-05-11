@@ -1,0 +1,24 @@
+!Title: anti-AD for AdGuard
+!Version: 20220510184536856663970
+!Homepage: https://anti-ad.net/
+!!!note! If you are using "AdGuard Home", please load https://anti-ad.net/easylist.txt
+!Total lines: 53733
+@@||ad.azure.com^
+||*serror*.wo.com.cn^
+||ads*-normal-hl.zijieapi.com^
+||bj*.9669.cn^
+||gg*.miguvideo.com^
+||minero-proxy-*.sh^
+||p*-ad-sign.byteimg.com^
+||ping.*.sogou.com^
+||toujing*.top^
+||tracking.*.miui.com^
+||bs*.9669.cn^
+||*mistat*.xiaomi.com^
+||assoc-amazon.*^
+||clkservice*.youdao.com^
+||dsp*.youdao.com^
+||pussl*.com^
+||putrr*.com^
+||log*.molitv.cn^
+||
